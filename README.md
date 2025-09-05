@@ -17,12 +17,12 @@ Projeto feito utilizando **React Native** com **TypeScript**, onde busquei desen
 
 ### 🏠 Home
 <p align="center">
-  <img src=".github/Home.png" alt="Home Screen" width="300" />
+  <img src=".github/Home.PNG" alt="Home Screen" width="300" />
 </p>
 
 ### 🛠️ Skills
 <p align="center">
-  <img src=".github/skills.png" alt="Skills Screen" width="300" />
+  <img src=".github/skills.PNG" alt="Skills Screen" width="300" />
 </p>
 
 ---
